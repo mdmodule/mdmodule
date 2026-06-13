@@ -1,6 +1,9 @@
 # mdmodule
 机械设计/产品结构设计的技术博客，目标：简单设计好产品。
 
+<!-- WC26:START -->
+<!-- WC26:END -->
+
 # 最新地址
 博客园：https://www.cnblogs.com/zjc9915
 
