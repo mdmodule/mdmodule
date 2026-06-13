@@ -2,6 +2,11 @@
 机械设计/产品结构设计的技术博客，目标：简单设计好产品。
 
 <!-- WC26:START -->
+<img src=".github/wc26/countdown.svg" alt="World Cup 2026 — countdown" />
+<img src=".github/wc26/match.svg" alt="World Cup 2026 — match" />
+<img src=".github/wc26/today.svg" alt="World Cup 2026 — today" />
+<img src=".github/wc26/r32.svg" alt="World Cup 2026 — r32" />
+<img src=".github/wc26/bracket.svg" alt="World Cup 2026 — bracket" />
 <!-- WC26:END -->
 
 # 最新地址
