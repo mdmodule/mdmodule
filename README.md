@@ -3,6 +3,7 @@
 **机械工程师** · 致力于机械全行业的自动化工作流搭建，AI 共生设计。
 
 > Simple Design, Good Product.
+> Mechanical Design Module.
 
 [Blog](https://github.com/mdmodule/blog) · [博客园](https://www.cnblogs.com/zjc9915) · 微信公众号：**mdmodule**
 
