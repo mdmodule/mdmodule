@@ -5,7 +5,7 @@
 > Simple Design, Good Product.
 > Mechanical Design Module.
 
-[Blog](https://github.com/mdmodule/blog) · [博客园](https://www.cnblogs.com/zjc9915) · 微信公众号：**mdmodule**
+[博客](https://mdmodule.com) · [GitHub](https://github.com/mdmodule/blog) · 微信公众号：**mdmodule**
 
 ---
 
@@ -27,4 +27,4 @@
 
 ### 博客
 
-博客园：[zjc9915](https://www.cnblogs.com/zjc9915) | GitHub：[mdmodule/blog](https://github.com/mdmodule/blog)
+个人网站：[mdmodule.com](https://mdmodule.com) | 文章目录：[categories](https://mdmodule.com/categories) | GitHub：[mdmodule/blog](https://github.com/mdmodule/blog)
