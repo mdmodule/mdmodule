@@ -21,7 +21,7 @@
 | **应用工具** | | |
 | [MdSnap](https://github.com/mdmodule/MdSnap) | C# | 极简截图工具 · 标注后直接发给 AI |
 | [world-cup-2026-widget](https://github.com/mdmodule/world-cup-2026-widget) | Python | FIFA 世界杯 2026 自更新面板 |
-| **文档与展示** | | |
+| **文档与博客** | | |
 | [Industrial-Software-assistance-](https://github.com/mdmodule/Industrial-Software-assistance-) | 文档 | 结构设计为什么需要工业软件辅助 |
 | [blog](https://github.com/mdmodule/blog) | — | 机械设计 / 产品结构设计技术博客 |
 
